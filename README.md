@@ -8,4 +8,4 @@ The goal is to predict whether a bank's customers will leave, defined by the eve
 The dataset includes 10,000 observations and 12 variables. The independent variables provide information about the customers, while the dependent variable indicates whether a customer has left.
 
 # Which model was the most effective?
-After evaluating various models, the LightGBM Classifier emerged as the most effective, achieving an accuracy of 0.91109.
+After evaluating various models, the LightGBM Classifier emerged as the most effective, achieving an accuracy of 0.90811.
